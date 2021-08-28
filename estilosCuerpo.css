@@ -1,0 +1,23 @@
+
+ 
+ h2{
+	color:red; 
+}
+ 
+#cuadricula{
+	background-color:var(--fondoMuyClaro);
+	padding:50px;
+	margin:20px;
+	
+	display:flex;
+	flex-direction:row;
+	
+	flex-wrap:wrap;
+}
+ 
+.sello{
+	background-color:pink;
+	padding:20px;
+	margin:20px;
+ }
+ 
